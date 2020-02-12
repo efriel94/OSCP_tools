@@ -1,2 +1,2 @@
-# OSCP_tools
-A collection of security tools used for penetration testing
+# OSCP tools
+A collection of security tools used for penetration testing and OSCP preparation
